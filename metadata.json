@@ -1,0 +1,5 @@
+{
+  "name": "Espresso Decaf Testnet Dashboard",
+  "description": "A real-time dashboard to monitor the Espresso Decaf Testnet, displaying live block data, network statistics, and recent activity.",
+  "requestFramePermissions": []
+}
